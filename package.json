@@ -1,0 +1,23 @@
+{
+  "name": "a-cli-bin",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "dependencies": {
+    "a-construct-fn": ""
+  },
+  "description": "A Cli Bin",
+  "keywords": [
+    "a",
+    "cli",
+    "bin"
+  ],
+  "devDependencies": {},
+  "homepage": "https://github.com/joaoafrmartins/a-cli-bin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-cli-bin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-cli-bin/issues"
+  }
+}
