@@ -19,5 +19,7 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/a-cli-bin/issues"
-  }
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT"
 }
